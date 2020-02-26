@@ -15,10 +15,10 @@
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
   </properties>
-
+<!--
   <modules>
     <module>/</module>
-  </modules>
+  </modules> -->
 
   <distributionManagement>
     <site>
