@@ -36,7 +36,7 @@ module.exports = function (config) {
         ]
       }
     },
-    browsers: ['Chrome'],
+    browsers: ['ChromeHeadless'],
     singleRun: false
   });
 };
